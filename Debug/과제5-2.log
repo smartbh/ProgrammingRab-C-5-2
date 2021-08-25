@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\lee\desktop\프로그래밍랩 이병헌\과제5-2\main.c(23): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\lee\desktop\프로그래밍랩 이병헌\과제5-2\main.c(32): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  과제5-2.vcxproj -> C:\Users\LEE\Desktop\프로그래밍랩 이병헌\과제5\Debug\과제5-2.exe
